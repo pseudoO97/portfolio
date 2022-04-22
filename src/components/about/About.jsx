@@ -39,13 +39,13 @@ function About() {
           </div>
           <p>
             Motivated, creative, with a great thirst for learning and a good
-            sense of organization, I hold a diploma of software development
+            sense of organization, I hold a diploma in software development
             technician at the specialized institute of technology applied.
             <br></br>
             Currently I am a 3rd year bachelor student in web development at
-            MyDigitalDchool school and I am looking for a work-study program
-            that will allow me to develop and deepen my knowledge of development
-            for my 2 years in master.
+            MyDigitalSchool and I am looking for a work-study program that will
+            allow me to develop and deepen my knowledge in development for my 2
+            years in master.
           </p>
           <a href="#contact" className="btn btn-primary">
             Let's Talk

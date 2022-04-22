@@ -15,7 +15,9 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG1} alt="" />
           </div>
-          <h3>This is a project for Discord Boot Devloped with Nodejs . . .</h3>
+          <h3>
+            This is a project for Discord Boot Developed with Nodejs . . .
+          </h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/pseudoO97/ChocoBot"
@@ -31,7 +33,7 @@ const Portfolio = () => {
           <div className="portfolio_item-image">
             <img src={IMG2} alt="" />
           </div>
-          <h3>This is Api project For Book Devloped with Nestjs . . .</h3>
+          <h3>This is Api project For Book Developed with Nestjs . . .</h3>
           <div className="portfolio__item-cta">
             <a
               href="https://github.com/pseudoO97/bookapi"
@@ -48,8 +50,8 @@ const Portfolio = () => {
             <img src={IMG3} alt="" />
           </div>
           <h3>
-            Authantification with page sign in and sign up with email
-            Verfication and Reset password . . .
+            Authentication with page sign in and sign up with email verfication
+            and Reset password . . .
           </h3>
           <div className="portfolio__item-cta">
             <a
@@ -67,7 +69,8 @@ const Portfolio = () => {
             <img src={IMG4} alt="" />
           </div>
           <h3>
-            This project is an application usign fullet technologie (Dart) . . .{" "}
+            This project is an mobile application usign flutter technologie
+            (Dart) . . .{" "}
           </h3>
           <div className="portfolio__item-cta">
             <a

@@ -18,7 +18,7 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>Design print and digtil marketing imagery.</p>
+              <p>Design print and digital marketing imagery.</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
@@ -42,16 +42,16 @@ const Services = () => {
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>static website creation</p>
+              <p>Static website creation</p>
             </li>
             <li>
               <BiCheck className="service_list-icon" />
-              <p>app creation(Web and Mobile).</p>
+              <p>App creation(Web and Mobile).</p>
             </li>
 
             <li>
               <BiCheck className="service_list-icon" />
-              <p>website creation with CMS (Wordpress or Prestashop)</p>
+              <p>Website creation with CMS (Wordpress or PrestaShop)</p>
             </li>
           </ul>
         </article>
